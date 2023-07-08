@@ -2,7 +2,7 @@
 
 git lfs install
 
-git lfs track "*.psd"
+git lfs track "*.psd" (In quotes write file type)
 
 git add .gitattributes
 
